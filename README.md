@@ -8,7 +8,7 @@ multilinguality: monolingual
 pretty_name: Car Front and Rear Damage Detection
 size_categories:
 - 1K<n<10K
-source_datasets: []
+source_datasets: [huggingface_datasets]
 task_categories:
 - image-classification
 task_ids:
@@ -214,7 +214,7 @@ Recommended metrics for this dataset:
 ## 🤝 Contributing
 
 To contribute to this dataset:
-1. Follow the naming convention: `category/image_XXX.jpg`
+1. Follow the naming convention: `category/image_.jpg`
 2. Ensure image quality meets guidelines
 3. Verify correct categorization
 4. Submit pull request with new images
@@ -233,7 +233,7 @@ This dataset is released under the MIT License. See LICENSE file for details.
 
 For questions about this dataset:
 - Create an issue in this repository
-- Contact: [your-email@example.com]
+- Contact: saabiqcs@gmail.com
 
 ---
 
