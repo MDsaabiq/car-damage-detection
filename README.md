@@ -34,8 +34,9 @@ This dataset contains **6 distinct categories** for comprehensive car damage ass
 ## 🎥 Demo
 
 <video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github.com/MDsaabiq/car-damage-detection/raw/main/demo.mp4" type="video/mp4">
+  <!-- <img src="demo-thumbnail.png" alt="Demo Video Thumbnail"> -->
+  Your browser does not support the video tag. <a href="demo.mp4">Download video</a>
 </video>
 
 ## 🎯 Use Cases
