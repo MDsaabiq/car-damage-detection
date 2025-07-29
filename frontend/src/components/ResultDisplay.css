@@ -1,0 +1,98 @@
+.result-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 2rem auto 0;
+  animation: slideUp 0.5s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.result-header h2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 1.5rem;
+}
+
+.result-main {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.prediction-card {
+  background: white;
+  border: 2px solid;
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.prediction-icon {
+  font-size: 2.5rem;
+}
+
+.prediction-text h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.prediction-text p {
+  margin: 0;
+  color: #6b7280;
+  font-size: 1rem;
+}
+
+.probabilities {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.probabilities h4 {
+  margin: 0 0 1rem 0;
+  color: #374151;
+}
+
+.probability-bar {
+  margin-bottom: 1rem;
+}
+
+.probability-bar:last-child {
+  margin-bottom: 0;
+}
+
+.probability-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.probability-track {
+  height: 8px;
+  background: #e5e7eb;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.probability-fill {
+  height: 100%;
+  transition: width 0.8s ease-out;
+  border-radius: 4px;
+}
