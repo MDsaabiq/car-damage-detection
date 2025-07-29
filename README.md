@@ -33,12 +33,9 @@ This dataset contains **6 distinct categories** for comprehensive car damage ass
 
 ## 🎥 Demo
 
-<video width="600" controls>
-  <source src="https://res.cloudinary.com/dy4nhsvfm/video/upload/v1753790734/demo_szzmgv.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="https://res.cloudinary.com/dy4nhsvfm/video/upload/v1753790734/demo_szzmgv.mp4">Download video</a>
-</video>
+[![Demo Video](https://res.cloudinary.com/dy4nhsvfm/video/upload/v1753790734/demo_szzmgv.jpg)](https://res.cloudinary.com/dy4nhsvfm/video/upload/v1753790734/demo_szzmgv.mp4)
 
-*Car damage detection demonstration*
+*Click to watch the demo*
 
 ## 🎯 Use Cases
 
