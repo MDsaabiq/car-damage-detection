@@ -34,10 +34,11 @@ This dataset contains **6 distinct categories** for comprehensive car damage ass
 ## 🎥 Demo
 
 <video width="600" controls>
-  <source src="https://github.com/MDsaabiq/car-damage-detection/raw/main/demo.mp4" type="video/mp4">
-  <!-- <img src="demo-thumbnail.png" alt="Demo Video Thumbnail"> -->
-  Your browser does not support the video tag. <a href="demo.mp4">Download video</a>
+  <source src="https://res.cloudinary.com/dy4nhsvfm/video/upload/v1753790734/demo_szzmgv.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="https://res.cloudinary.com/dy4nhsvfm/video/upload/v1753790734/demo_szzmgv.mp4">Download video</a>
 </video>
+
+*Car damage detection demonstration*
 
 ## 🎯 Use Cases
 
@@ -241,7 +242,7 @@ This dataset is released under the MIT License. See LICENSE file for details.
 
 For questions about this dataset:
 - Create an issue in this repository
-- Contact: [your-email@example.com]
+- Contact: saabiqcs@gmail.com
 
 ---
 
